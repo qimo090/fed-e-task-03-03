@@ -1,0 +1,6 @@
+{
+  "name": "01-传统的服务端渲染",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
